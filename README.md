@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vidhit666
+- 👋 Hi, I’m Vidhit Gill.
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me from my email id- vidhitgill99@gmail.com
